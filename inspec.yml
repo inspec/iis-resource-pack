@@ -1,0 +1,11 @@
+name: iis-resource-pack
+title: IIS resource pack
+maintainer: pradipta.pradhan@chef.io
+copyright: pradipta.pradhan@chef.io
+copyright_email: pradipta.pradhan@chef.io
+license: Apache-2.0
+summary: This resource pack contains few resource helpful to scan iis
+version: 0.1.0
+inspec_version: '>= 4.7.3'
+supports:
+  platform: os
