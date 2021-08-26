@@ -1,3 +1,3 @@
-# Example InSpec Profile
+# IIS profile
 
-This example shows the implementation of an InSpec profile.
+This InSpec profile has utility to helps scan IIS .
